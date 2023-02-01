@@ -17,4 +17,4 @@ sample_submission.csv - file showing how the submission should look
 train.csv - the training data  
 test.csv - the test data  
 my-first-cnn.ipynb - python notebook first submission  
-2nd-attempt-mnist-accuracy-99.ipynb
+2nd-attempt-mnist-accuracy-99.ipynb - python notebook second submission
