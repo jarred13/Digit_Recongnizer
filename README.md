@@ -16,5 +16,5 @@ The data files train.csv and test.csv contain gray-scale images of hand-drawn di
 sample_submission.csv - file showing how the submission should look  
 train.csv - the training data  
 test.csv - the test data  
-my-first-cnn.ipynb - python notebook first submission  
-2nd-attempt-mnist-accuracy-99.ipynb - python notebook second submission
+my-first-cnn.ipynb - Kaggle python notebook first submission  
+2nd-attempt-mnist-accuracy-99.ipynb - Kaggle python notebook second submission
